@@ -1,0 +1,46 @@
+﻿@using WebUI.Models
+@model IEnumerable<Valute>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-header text-center">
+                <h4 class="card-title">Bu Günə Olan AZN Məzənnələri</h4>
+            </div>
+            <!--end card-header-->
+            <div class="card-body">
+                <div style="display: block; position: relative; height: 300px; overflow: auto;"
+                     class="table-responsive-sm  ">
+                    <table class="table mb-0">
+                        <thead>
+                            <tr>
+                                <th scope="col">Valyuta</th>
+                                <th scope="col">Kod</th>
+                                <th scope="col">Kurs</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr class="valyuta">
+                                    <td class="">@item.Name</td>
+                                    <td class="">@item.Code</td>
+                                    <td class="">@item.Value</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    <!--end /table-->
+                </div>
+                <!--end /tableresponsive-->
+            </div>
+            <!--end card-body-->
+        </div>
+        <!--end card-->
+    </div>
+</div>
+
+<br>
