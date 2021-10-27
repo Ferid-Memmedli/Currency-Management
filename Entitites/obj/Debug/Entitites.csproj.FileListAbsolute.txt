@@ -1,0 +1,12 @@
+C:\Users\shaha\Desktop\Currency Management\Entitites\bin\Debug\Entitites.dll
+C:\Users\shaha\Desktop\Currency Management\Entitites\bin\Debug\Entitites.pdb
+C:\Users\shaha\Desktop\Currency Management\Entitites\bin\Debug\Core.dll
+C:\Users\shaha\Desktop\Currency Management\Entitites\bin\Debug\EntityFramework.dll
+C:\Users\shaha\Desktop\Currency Management\Entitites\bin\Debug\Core.pdb
+C:\Users\shaha\Desktop\Currency Management\Entitites\bin\Debug\Core.dll.config
+C:\Users\shaha\Desktop\Currency Management\Entitites\bin\Debug\EntityFramework.xml
+C:\Users\shaha\Desktop\Currency Management\Entitites\obj\Debug\Entitites.csproj.AssemblyReference.cache
+C:\Users\shaha\Desktop\Currency Management\Entitites\obj\Debug\Entitites.csproj.CoreCompileInputs.cache
+C:\Users\shaha\Desktop\Currency Management\Entitites\obj\Debug\Entitites.csproj.CopyComplete
+C:\Users\shaha\Desktop\Currency Management\Entitites\obj\Debug\Entitites.dll
+C:\Users\shaha\Desktop\Currency Management\Entitites\obj\Debug\Entitites.pdb

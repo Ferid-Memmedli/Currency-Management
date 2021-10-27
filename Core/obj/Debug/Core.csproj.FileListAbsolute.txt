@@ -1,0 +1,12 @@
+C:\Users\shaha\Desktop\Currency Management\Core\bin\Debug\Core.dll.config
+C:\Users\shaha\Desktop\Currency Management\Core\bin\Debug\Core.dll
+C:\Users\shaha\Desktop\Currency Management\Core\bin\Debug\Core.pdb
+C:\Users\shaha\Desktop\Currency Management\Core\bin\Debug\EntityFramework.dll
+C:\Users\shaha\Desktop\Currency Management\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shaha\Desktop\Currency Management\Core\bin\Debug\EntityFramework.xml
+C:\Users\shaha\Desktop\Currency Management\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shaha\Desktop\Currency Management\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\shaha\Desktop\Currency Management\Core\obj\Debug\Core.csproj.CopyComplete
+C:\Users\shaha\Desktop\Currency Management\Core\obj\Debug\Core.dll
+C:\Users\shaha\Desktop\Currency Management\Core\obj\Debug\Core.pdb
+C:\Users\shaha\Desktop\Currency Management\Core\obj\Debug\Core.csproj.AssemblyReference.cache
